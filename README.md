@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DEV TAX AND ACCOUNTING, LLC 
 
-## Getting Started
+Devtaxs is located in Silver Spring, Maryland. This organization primarily operates in the Tax Return Preparation Services industry within the Personal Services sector. This organization has been operating for approximately 4 years. 
 
-First, run the development server:
+Domain: https://www.devtaxes.com/
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+##### Google Firebase - Web Hosting Provider
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This fully responsive website is built using Chakra Ui and JavaScript using the NexJs JavaScript Framework.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+# SEO (Search Engine Optimization) Practices
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Sitemap
+A sitemap is made in XML (Extensible Markup Language) and is primarily used as a way for AI to index your site easier. Search engines like Google use XML sitemaps to store your site’s pages more efficiently, producing better results when people search for related terms.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+DEV TAX AND ACCOUNTING, LLC  Sitemap URL: https://devtaxes.com/sitemap.xml
 
-## Learn More
+Posted Sitemap on Google Search Console: https://search.google.com/search-console/about
 
-To learn more about Next.js, take a look at the following resources:
+## Robots.txt
+A robots.txt file tells search engines what your website's rules of engagement are. A big part of doing SEO is about sending the right signals to search engines, and the robots.txt is one of the ways to communicate your crawling preferences to search engines.
+URL: https://devtaxes.com/robots.txt
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Application Programming Interface (APIs)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## EmailJS
+Utilized EmailJS service to allow sending emails directly from client-side JavaScript code.
 
-## Deploy on Vercel
+EmailJS URL: https://www.emailjs.com/
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+  
