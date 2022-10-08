@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+.anchor {
+  display: block;
+  visibility: hidden;
+  height: 56px;
+  margin-top: -56px;
+}
+
+.frame {
+  animation: ani infinite 10s linear;
+}
+
+@keyframes ani {
+  from {    
+    transform: translate(-10vw) rotate(-15deg);  
+  }  
+  50% {
+    transform: translate(10vw) rotate(15deg);  
+
+  }
+  to {    
+    transform: translate(-10vw) rotate(-15deg);  
+  }
+}
+
+.footerIcon {
+  height: 1vw;
+  width: 0.1vw;
+}
+
+@media only screen and (max-width: 1920px) {
+  .footerIcon {
+    height: 50px;
+    width: 50px;
+  }
+}
